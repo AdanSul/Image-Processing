@@ -1,4 +1,4 @@
-**Image Processing Assignments**  
+# Image Processing
 
 This repository contains hands-on assignments covering key concepts in image processing. Throughout these assignments, we explore fundamental techniques and their practical applications, from basic transformations to advanced enhancements.  
 
